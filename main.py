@@ -63,7 +63,7 @@ if __name__ == '__main__':
     #     push_to_wechat(text = '什么值得买每日签到',
     #                     desp = str(res),
     #                     secretKey = SERVERCHAN_SECRETKEY)
-    url = 'https://api.day.app/6FKe3WfetAuTPVduNYqzpN/已经打卡咯'
-    msg = requests.get(url)
-    print(msg)
-    print('代码完毕')
+    # url = 'https://api.day.app/6FKe3WfetAuTPVduNYqzpN/已经打卡咯'
+    # msg = requests.get(url)
+    # print(msg)
+    # print('代码完毕')
